@@ -15,11 +15,11 @@ I specialize in crafting responsive, user-friendly websites using modern web tec
 
 ## 🌟 Featured Projects
 
-- [Personal Portfolio (React.js)](https://github.com/Atyan-Malik/Personal-portfolio-React.js)
-- [React.js Dashboard](https://github.com/Atyan-Malik/React.js-Dashboard)
-- [React Todo App](https://github.com/Atyan-Malik/React-Todo-App)
 - [SHARP Ecommerce Website (React.js)](https://github.com/Atyan-Malik/SHARP-ECOMMERCE-WEBSITE-React.js)
-- [Shopping Cart](https://github.com/Atyan-Malik/Shopping-Cart)
+- [React.js Dashboard](https://github.com/Atyan-Malik/React.js-Dashboard)
+-[Real Estate Website](https://github.com/Atyan-Malik/Real-Estate-React.js-Website)
+- [International Currency Converter](https://github.com/Atyan-Malik/international-currency-converter)
+
 
 ## 📈 What I Do
 - Build responsive, user-friendly websites and dashboards
