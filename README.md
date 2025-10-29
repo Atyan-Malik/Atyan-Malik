@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Atyan Malik
 
-🚀 **Certified Front End Software Developer**
+🚀 **Certified MERN Stack Developer**
 
 I specialize in crafting responsive, user-friendly websites using modern web technologies. Passionate about delivering high-quality interfaces and seamless user experiences.
 
