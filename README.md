@@ -13,6 +13,8 @@ I specialize in crafting responsive, user-friendly websites using modern web tec
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![GSAP.js](https://img.shields.io/badge/-GSAP.js-88CE02?logo=greensock&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/redux%20toolkit-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/socket.io-%23000000.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
