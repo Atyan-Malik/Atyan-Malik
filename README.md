@@ -18,8 +18,8 @@ I specialize in crafting responsive, user-friendly websites using modern web tec
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-## 🌟 Featured Projects
-
+## 🌟 Featured Project
+- [Global Glimpses Tour Booking Website (Mern)](https://github.com/Atyan-Malik/MERN-Stack-Tour-Booking-Website.git)
 - [SHARP Ecommerce Website (React.js)](https://github.com/Atyan-Malik/SHARP-ECOMMERCE-WEBSITE-React.js)
 - [React.js Dashboard](https://github.com/Atyan-Malik/React.js-Dashboard)
 - [Real Estate Website](https://github.com/Atyan-Malik/Real-Estate-React.js-Website)
