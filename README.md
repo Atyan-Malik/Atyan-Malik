@@ -12,7 +12,7 @@ I specialize in crafting responsive, user-friendly websites using modern web tec
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Next](https://img.shields.io/badge/-Next-61DAFB?logo=next&logoColor=black)
+![Next.js Logo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
 ![GSAP.js](https://img.shields.io/badge/-GSAP.js-88CE02?logo=greensock&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/redux%20toolkit-%23764ABC.svg?style=flat-square&logo=redux&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/socket.io-%23000000.svg?style=flat-square&logo=socket.io&logoColor=white)
