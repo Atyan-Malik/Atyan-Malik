@@ -98,9 +98,6 @@ A responsive real estate application designed for property discovery and modern 
 ---
 
 # 📚 Currently Learning
-
-- Advanced TypeScript
-- Next.js
 - Backend architecture & system design
 - DevOps & cloud technologies
 - AI-powered applications
